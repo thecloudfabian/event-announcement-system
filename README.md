@@ -4,7 +4,7 @@ A serverless event notification system built with AWS that publishes event annou
 
 ## Architecture Diagram
 
-![Architecture](API Architecture.png)
+![Architecture](Architecture.png)
 
 
 ## Architecture

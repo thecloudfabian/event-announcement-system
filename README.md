@@ -2,6 +2,10 @@
 
 A serverless event notification system built with AWS that publishes event announcements via API Gateway, processes them with Lambda, and distributes notifications using SNS email subscriptions.
 
+## Architecture Diagram
+
+![Architecture](API Architecture.png)
+
 
 ## Architecture
 

@@ -37,7 +37,7 @@ User - API Gateway - AWS Lambda - Amazon SNS - Email Subcribers
   "location": "Charlotte"
 }
 
-Example Output
+## Example Output
 
 New Event: AWS Cybersecurity Workshop  
 Date: May 10, 2026  
